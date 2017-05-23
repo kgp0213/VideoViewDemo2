@@ -1,0 +1,4 @@
+#Tue May 23 16:43:47 CST 2017
+base.0=D\:\\AndroidStudioProjects\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b
+renamed.0=classes.dex
+file.0=D\:\\AndroidStudioProjects\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b\\classes.dex

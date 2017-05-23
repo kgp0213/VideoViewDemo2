@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_videoview.xml",
+        "source": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\src\\main\\res\\layout\\activity_videoview.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_controller.xml",
+        "source": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\src\\main\\res\\layout\\activity_controller.xml"
+    }
+]
