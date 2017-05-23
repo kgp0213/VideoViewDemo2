@@ -21,7 +21,8 @@ public class ControllerActivity extends Activity {
 		vv_video=(VideoView) findViewById(R.id.vv_video);
 		//MediaController
 		mController=new MediaController(this);
-		File file=new File("/sdcard/ykzzldx.mp4");
+		//调试时需要确认SD卡相应位置存在指定的文件
+		File file=new File("/sdcard/1.mp4");
 		if(file.exists()){
 			//
 			vv_video.setVideoPath(file.getAbsolutePath());

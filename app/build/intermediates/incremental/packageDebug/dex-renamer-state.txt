@@ -1,4 +1,4 @@
-#Tue May 23 16:52:56 CST 2017
+#Tue May 23 17:09:04 CST 2017
 base.0=D\:\\AndroidStudioProjects\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d136902ff09b4e7910ac70cbf6f5ff036f912db0
 renamed.1=classes.dex
 renamed.0=classes2.dex
