@@ -18,10 +18,10 @@ public class MainActivity extends Activity implements OnClickListener {
 		setContentView(R.layout.activity_main);
 
 		btn_videoview = (Button) findViewById(R.id.btn_videoview);
-		btn_controller = (Button) findViewById(R.id.btn_controller);
+		//btn_controller = (Button) findViewById(R.id.btn_controller);
 
 		btn_videoview.setOnClickListener(this);
-		btn_controller.setOnClickListener(this);
+//		btn_controller.setOnClickListener(this);
 	}
 
 	@Override
@@ -32,10 +32,10 @@ public class MainActivity extends Activity implements OnClickListener {
 			intent=new Intent(MainActivity.this, VideoViewActivity.class);
 			startActivity(intent);
 			break;
-		case R.id.btn_controller:
+		/*case R.id.btn_controller:
 			intent=new Intent(MainActivity.this, ControllerActivity.class);
 			startActivity(intent);
-			break;
+			break;*/
 		default:
 			break;
 		}

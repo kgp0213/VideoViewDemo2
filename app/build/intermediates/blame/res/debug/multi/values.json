@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,13 +49,13 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 110,
+                        "startOffset": 111,
                         "endColumn": 52,
-                        "endOffset": 158
+                        "endOffset": 159
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 268
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 58,
+                        "startOffset": 59,
                         "endColumn": 50,
-                        "endOffset": 104
+                        "endOffset": 105
                     }
                 }
             },
@@ -83,17 +83,17 @@
                     "startLine": 6,
                     "startColumn": 4,
                     "startOffset": 273,
-                    "endColumn": 52,
-                    "endOffset": 321
+                    "endColumn": 55,
+                    "endOffset": 324
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 164,
-                        "endColumn": 52,
-                        "endOffset": 212
+                        "startOffset": 165,
+                        "endColumn": 55,
+                        "endOffset": 216
                     }
                 }
             },
@@ -101,20 +101,20 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 326,
+                    "startOffset": 329,
                     "endLine": 13,
                     "endColumn": 12,
-                    "endOffset": 612
+                    "endOffset": 615
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 191,
+                        "startOffset": 192,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 481
+                        "endOffset": 484
                     }
                 }
             },
@@ -122,20 +122,20 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 617,
+                    "startOffset": 620,
                     "endLine": 16,
                     "endColumn": 12,
-                    "endOffset": 772
+                    "endOffset": 775
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\VideoViewDemo2\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 522,
+                        "startOffset": 525,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 679
+                        "endOffset": 682
                     }
                 }
             }

@@ -19,8 +19,8 @@ import android.widget.SeekBar.OnSeekBarChangeListener;
 public class VideoViewActivity extends Activity {
 	private final String TAG = "main";
 	private EditText et_path;
-	private Button btn_play, btn_pause, btn_replay, btn_stop;
-	private SeekBar seekBar;
+	private Button btn_play, btn_replay;
+	//private SeekBar seekBar;
 	private VideoView vv_video;
 	private boolean isPlaying;
 
@@ -30,25 +30,25 @@ public class VideoViewActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_videoview);
 
-		seekBar = (SeekBar) findViewById(R.id.seekBar);
-		et_path = (EditText) findViewById(R.id.et_path);
+		//seekBar = (SeekBar) findViewById(R.id.seekBar);
+		//et_path = (EditText) findViewById(R.id.et_path);
 		vv_video = (VideoView) findViewById(R.id.vv_videoview);
 
 		btn_play = (Button) findViewById(R.id.btn_play);
-		btn_pause = (Button) findViewById(R.id.btn_pause);
+		//btn_pause = (Button) findViewById(R.id.btn_pause);
 		btn_replay = (Button) findViewById(R.id.btn_replay);
-		btn_stop = (Button) findViewById(R.id.btn_stop);
+		//btn_stop = (Button) findViewById(R.id.btn_stop);
 
 		btn_play.setOnClickListener(click);
-		btn_pause.setOnClickListener(click);
+		//btn_pause.setOnClickListener(click);
 		btn_replay.setOnClickListener(click);
-		btn_stop.setOnClickListener(click);
+		//btn_stop.setOnClickListener(click);
 
 		//
-		seekBar.setOnSeekBarChangeListener(change);
+		//seekBar.setOnSeekBarChangeListener(change);
 	}
 
-	private OnSeekBarChangeListener change = new OnSeekBarChangeListener() {
+	/*private OnSeekBarChangeListener change = new OnSeekBarChangeListener() {
 
 		@Override
 		public void onStopTrackingTouch(SeekBar seekBar) {
@@ -70,7 +70,7 @@ public class VideoViewActivity extends Activity {
 				boolean fromUser) {
 
 		}
-	};
+	};*/
 	private View.OnClickListener click = new View.OnClickListener() {
 
 		@Override
@@ -80,15 +80,15 @@ public class VideoViewActivity extends Activity {
 			case R.id.btn_play:
 				play(0);
 				break;
-			case R.id.btn_pause:
+			/*case R.id.btn_pause:
 				pause();
-				break;
+				break;*/
 			case R.id.btn_replay:
 				replay();
 				break;
-			case R.id.btn_stop:
+			/*case R.id.btn_stop:
 				stop();
-				break;
+				break;*/
 			default:
 				break;
 			}
@@ -96,26 +96,27 @@ public class VideoViewActivity extends Activity {
 	};
 
 	protected void play(int msec) {
-		Log.i(TAG, " adfַ");
-		String path = et_path.getText().toString().trim();
+		Log.i(TAG, "Play");
+		String path ="sdcard/2.mp4";  //  et_path.getText().toString().trim();
 		File file = new File(path);
 		if (!file.exists()) {
-			Toast.makeText(this, "asdfa", 0).show();
+			Toast.makeText(this, "File Not exists", Toast.LENGTH_SHORT).show();
 			return;
 		}
 		
-		Log.i(TAG, "adfa");
+		Log.i(TAG, "文件存在");
 		vv_video.setVideoPath(file.getAbsolutePath());
-		Log.i(TAG, "afda");
-		vv_video.start();
-		
-		//
+		Log.i(TAG, "获得文件地址");
 		vv_video.seekTo(msec);
+		vv_video.start();
+		//vv_video.onTouchEvent()
 		//
-		seekBar.setMax(vv_video.getDuration());
 
 		//
-		new Thread() {
+		//seekBar.setMax(vv_video.getDuration());
+
+		//
+		/*new Thread() {
 
 			@Override
 			public void run() {
@@ -124,7 +125,7 @@ public class VideoViewActivity extends Activity {
 					while (isPlaying) {
 
 						int current = vv_video.getCurrentPosition();
-						seekBar.setProgress(current);
+						//seekBar.setProgress(current);
 
 						sleep(500);
 					}
@@ -132,7 +133,7 @@ public class VideoViewActivity extends Activity {
 					e.printStackTrace();
 				}
 			}
-		}.start();
+		}.start();*/
 		//
 		btn_play.setEnabled(false);
 
@@ -141,7 +142,9 @@ public class VideoViewActivity extends Activity {
 			@Override
 			public void onCompletion(MediaPlayer mp) {
 				//
-				btn_play.setEnabled(true);
+				//btn_play.setEnabled(true);
+				vv_video.start();
+
 			}
 		});
 
@@ -162,9 +165,9 @@ public class VideoViewActivity extends Activity {
 	 */
 	protected void replay() {
 		if (vv_video != null && vv_video.isPlaying()) {
-			vv_video.seekTo(0);
-			Toast.makeText(this, "dfg", 0).show();
-			btn_pause.setText("as");
+			vv_video.seekTo(3000);
+			Toast.makeText(this, "循环",Toast.LENGTH_LONG).show();
+			//btn_pause.setText("||");
 			return;
 		}
 		isPlaying = false;
@@ -175,7 +178,7 @@ public class VideoViewActivity extends Activity {
 	/**
 	 * ��ͣ�����
 	 */
-	protected void pause() {
+	/*protected void pause() {
 		if (btn_pause.getText().toString().trim().equals("����")) {
 			btn_pause.setText("��ͣ");
 			vv_video.start();
@@ -187,16 +190,16 @@ public class VideoViewActivity extends Activity {
 			btn_pause.setText("����");
 			Toast.makeText(this, "��ͣ����", 0).show();
 		}
-	}
+	}*/
 
 	/*
 	 * ֹͣ����
 	 */
-	protected void stop() {
+	/*protected void stop() {
 		if (vv_video != null && vv_video.isPlaying()) {
 			vv_video.stopPlayback();
 			btn_play.setEnabled(true);
 			isPlaying = false;
 		}
-	}
+	}*/
 }

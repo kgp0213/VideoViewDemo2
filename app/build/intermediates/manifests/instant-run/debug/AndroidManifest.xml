@@ -25,7 +25,6 @@
             </intent-filter>
         </activity>
         <activity android:name="cn.bgxt.videoviewdemo.VideoViewActivity" />
-        <activity android:name="cn.bgxt.videoviewdemo.ControllerActivity" />
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"

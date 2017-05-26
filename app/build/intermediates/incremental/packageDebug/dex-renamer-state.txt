@@ -1,7 +1,7 @@
-#Tue May 23 17:09:04 CST 2017
-base.0=D\:\\AndroidStudioProjects\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d136902ff09b4e7910ac70cbf6f5ff036f912db0
+#Fri May 26 16:47:00 CST 2017
+base.0=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_955b44b78d034841805890f93ed019af4b058146
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=D\:\\AndroidStudioProjects\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9bca6fa8c4862a3daa4a7c33aed3226da0ee53d8\\classes.dex
-base.1=D\:\\AndroidStudioProjects\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9bca6fa8c4862a3daa4a7c33aed3226da0ee53d8
-file.0=D\:\\AndroidStudioProjects\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d136902ff09b4e7910ac70cbf6f5ff036f912db0\\classes.dex
+file.1=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_358cbd88a17d34da10ea9d4e280c70269b637e4d\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_358cbd88a17d34da10ea9d4e280c70269b637e4d
+file.0=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_955b44b78d034841805890f93ed019af4b058146\\classes.dex

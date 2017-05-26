@@ -25,7 +25,7 @@
         </activity>
         
         <activity android:name="cn.bgxt.videoviewdemo.VideoViewActivity"/>
-        <activity android:name="cn.bgxt.videoviewdemo.ControllerActivity"/>
+
     </application>
 
 </manifest>

@@ -13,12 +13,6 @@
         android:id="@+id/btn_videoview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="编码控制VideoView" />
-
-    <Button
-        android:id="@+id/btn_controller"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="配合Controller控制VideoView" />
+        android:text="编码控制 VideoView" />
 
 </LinearLayout>

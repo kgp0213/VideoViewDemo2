@@ -3,30 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="D:\AndroidStudioProjects\VideoViewDemo2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="D:\AndroidStudioProjects\VideoViewDemo2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d136902ff09b4e7910ac70cbf6f5ff036f912db0\classes.dex" />
+        <dex dex="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_955b44b78d034841805890f93ed019af4b058146\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="D:\AndroidStudioProjects\VideoViewDemo2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AndroidStudioProjects\VideoViewDemo2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="868a8f36d3d2d3e2e9dce0e615a9908aa718af9c">
-        <dex dex="D:\AndroidStudioProjects\VideoViewDemo2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9bca6fa8c4862a3daa4a7c33aed3226da0ee53d8\classes.dex" />
+        sha1="98623ea12806b9800a8ddfa3b25c63d782c538de">
+        <dex dex="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_358cbd88a17d34da10ea9d4e280c70269b637e4d\classes.dex" />
     </item>
 
 </items>
