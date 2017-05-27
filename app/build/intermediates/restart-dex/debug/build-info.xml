@@ -6,54 +6,48 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1495868620992"
+    timestamp="1495876726390"
     token="-4450624668437329418"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="89" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="21" />
+        duration="0" />
     <task
         name="verifier"
-        duration="7" />
+        duration="0" />
 
-    <artifact
-        location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
     <artifact
         location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1495868441094"
+        timestamp="1495876151380"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
@@ -62,10 +56,13 @@
             location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\outputs\apk\app-debug.apk"
@@ -73,11 +70,16 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1495868620992"
+        timestamp="1495876443116"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1495876726390"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\AndroidStudioProjects\VideoPlay2\VideoViewDemo2\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />

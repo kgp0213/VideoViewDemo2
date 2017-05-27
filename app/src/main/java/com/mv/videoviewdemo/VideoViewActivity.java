@@ -96,17 +96,17 @@ public class VideoViewActivity extends Activity {
 	};
 
 	protected void play(int msec) {
-		Log.i(TAG, "Play");
-		String path ="sdcard/1.mp4";  //  et_path.getText().toString().trim();
+		Log.i(TAG, "---Start Play--------------------------------------------------------------------");
+		String path ="/mnt/sdcard/1.mp4";  //  et_path.getText().toString().trim();
 		File file = new File(path);
 		if (!file.exists()) {
 			Toast.makeText(this, "File Not exists", Toast.LENGTH_SHORT).show();
 			return;
 		}
 		
-		Log.i(TAG, "文件存在");
+		Log.i(TAG, "文件地址"+path);
 		vv_video.setVideoPath(file.getAbsolutePath());
-		Log.i(TAG, "获得文件地址");
+		Log.i(TAG, "设定地址");
 		vv_video.seekTo(msec);
 		vv_video.start();
 		//vv_video.onTouchEvent()
