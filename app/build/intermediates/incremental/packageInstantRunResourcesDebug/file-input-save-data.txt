@@ -1,24 +1,18 @@
 #Internal package file, do not edit.
-#Fri May 26 16:58:03 CST 2017
-2.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-5.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-5.set=ANDROID_RESOURCE
-3.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-6.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_videoview.xml
-2.set=ANDROID_RESOURCE
-4.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-count=7
-0.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
-5.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.set=ANDROID_RESOURCE
-6.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-1.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
-1.set=ANDROID_RESOURCE
-2.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
-6.set=ANDROID_RESOURCE
-0.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
-3.set=ANDROID_RESOURCE
+#Sat May 27 15:03:41 CST 2017
 1.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+4.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_videoview.xml
+1.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_videoview.xml
+4.set=ANDROID_RESOURCE
+2.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
 0.set=ANDROID_RESOURCE
+0.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_

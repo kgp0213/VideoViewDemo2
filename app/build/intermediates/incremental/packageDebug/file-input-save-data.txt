@@ -1,30 +1,24 @@
 #Internal package file, do not edit.
-#Fri May 26 16:58:08 CST 2017
+#Sat May 27 15:03:42 CST 2017
 2.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_955b44b78d034841805890f93ed019af4b058146
-5.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 5.set=ANDROID_RESOURCE
-3.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-6.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+3.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_358cbd88a17d34da10ea9d4e280c70269b637e4d
+6.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_videoview.xml
 2.set=DEX
-4.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_358cbd88a17d34da10ea9d4e280c70269b637e4d
-7.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-7.set=ANDROID_RESOURCE
-count=9
-0.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+4.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 5.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-8.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_videoview.xml
-4.set=DEX
+4.set=ANDROID_RESOURCE
 6.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-1.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_videoview.xml
 1.set=ANDROID_RESOURCE
-7.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
 2.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_955b44b78d034841805890f93ed019af4b058146\\classes.dex
 6.set=ANDROID_RESOURCE
 0.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-8.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
-3.set=ANDROID_RESOURCE
+3.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_358cbd88a17d34da10ea9d4e280c70269b637e4d\\classes.dex
+3.set=DEX
 1.base=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_358cbd88a17d34da10ea9d4e280c70269b637e4d\\classes.dex
-8.set=ANDROID_RESOURCE
+4.file=D\:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
 0.set=ANDROID_RESOURCE

@@ -1,4 +1,4 @@
-package cn.bgxt.videoviewdemo;
+package com.mv.videoviewdemo;
 
 import java.io.File;
 
@@ -97,7 +97,7 @@ public class VideoViewActivity extends Activity {
 
 	protected void play(int msec) {
 		Log.i(TAG, "Play");
-		String path ="sdcard/2.mp4";  //  et_path.getText().toString().trim();
+		String path ="sdcard/1.mp4";  //  et_path.getText().toString().trim();
 		File file = new File(path);
 		if (!file.exists()) {
 			Toast.makeText(this, "File Not exists", Toast.LENGTH_SHORT).show();
@@ -174,6 +174,16 @@ public class VideoViewActivity extends Activity {
 		play(0);
 
 	}
+//	@Override
+//	protected void onDestroy() {
+//		// TODO Auto-generated method stub
+//		super.onDestroy();
+//		if(vv_video.isPlaying()){
+//			vv_video.stopPlayback();
+//		}
+//		//vv_video.release();
+//		//Activity销毁时停止播放，释放资源。不做这个操作，即使退出还是能听到视频播放的声音
+//	}
 
 	/**
 	 * ��ͣ�����

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--调试时需要确认SD卡相应位置存在指定的文件-->
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical" >
@@ -8,27 +8,43 @@
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-
-        <Button
-            android:id="@+id/btn_play"
-            android:layout_width="0dip"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="播放" />
-
-        <Button
-            android:id="@+id/btn_replay"
-            android:layout_width="0dip"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="重播" />
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout">
 
     </LinearLayout>
 
     <VideoView
         android:id="@+id/vv_videoview"
         android:layout_width="wrap_content"
-        android:layout_height="259dp" />
+        android:layout_height="259dp"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
-</LinearLayout>
+    <Button
+        android:id="@+id/btn_play"
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="81dp"
+        android:layout_weight="1"
+        android:text="播放"
+        android:layout_below="@+id/vv_videoview"
+        android:layout_toRightOf="@+id/linearLayout"
+        android:layout_toEndOf="@+id/linearLayout" />
+
+    <Button
+        android:id="@+id/btn_replay"
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btn_play"
+        android:layout_alignBottom="@+id/btn_play"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_toEndOf="@+id/btn_play"
+        android:layout_toRightOf="@+id/btn_play"
+        android:text="重播" />
+
+</RelativeLayout>
