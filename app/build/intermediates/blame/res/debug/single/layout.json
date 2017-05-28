@@ -16,12 +16,12 @@
         "source": "C:\\Users\\hufz\\.android\\build-cache\\0b21a14d9762db7efef94e62ad057e7b7cc4ea4c\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\hufz\\.android\\build-cache\\0b21a14d9762db7efef94e62ad057e7b7cc4ea4c\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\hufz\\.android\\build-cache\\0b21a14d9762db7efef94e62ad057e7b7cc4ea4c\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\hufz\\.android\\build-cache\\0b21a14d9762db7efef94e62ad057e7b7cc4ea4c\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -70,10 +70,6 @@
     {
         "merged": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\hufz\\.android\\build-cache\\0b21a14d9762db7efef94e62ad057e7b7cc4ea4c\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\hufz\\.android\\build-cache\\0b21a14d9762db7efef94e62ad057e7b7cc4ea4c\\output\\res\\layout\\notification_template_custom_big.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\VideoPlay2\\VideoViewDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",

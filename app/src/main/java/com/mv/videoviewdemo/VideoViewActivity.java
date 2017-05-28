@@ -18,7 +18,7 @@ import android.widget.SeekBar.OnSeekBarChangeListener;
 
 public class VideoViewActivity extends Activity {
 	private final String TAG = "main";
-	private EditText et_path;
+	//private EditText et_path;
 	private Button btn_play, btn_replay;
 	//private SeekBar seekBar;
 	private VideoView vv_video;
